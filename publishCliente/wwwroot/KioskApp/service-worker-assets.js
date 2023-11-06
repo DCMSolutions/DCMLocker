@@ -225,12 +225,16 @@
       "url": "KioskApp\/_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-IQZI7SgIuvBSqVlUAWYTp277Q5azY1KWhpea5ekD48E=",
+      "hash": "sha256-GOqpJc+75sVhnqtFgRsvr9CNXjpMcJKB9KIuGMFVIYA=",
       "url": "KioskApp\/_framework\/DCMLocker.Shared.dll"
     },
     {
-      "hash": "sha256-lxvi3KjZh7zaOLqvJLj\/UJt+9nOgCZamnfi\/IutpveM=",
+      "hash": "sha256-L0fOV83+VtFUPPojd1NvB\/1jepH4XNMPc4\/GJ2B5YG8=",
       "url": "KioskApp\/_framework\/DCMLocker.Kiosk.dll"
+    },
+    {
+      "hash": "sha256-nRNtzSxlQ870E6RHhQWWRMaGMId2pDfapus8pr+B5Hk=",
+      "url": "KioskApp\/_framework\/Microsoft.Win32.Primitives.dll"
     },
     {
       "hash": "sha256-BSlbqQTdUEr4oQJedWj0aa7mQjgPyqbZJ3fLfonhSlU=",
@@ -251,6 +255,10 @@
     {
       "hash": "sha256-lfiRnu2WV9fKYG6oY4lQi3tVviyUfnSmkRK8OyUfQD8=",
       "url": "KioskApp\/_framework\/System.Collections.dll"
+    },
+    {
+      "hash": "sha256-QmUqilJoIG+xysvunny03tNH\/DFZNQBE855Gro4ILW8=",
+      "url": "KioskApp\/_framework\/System.ComponentModel.Annotations.dll"
     },
     {
       "hash": "sha256-+Uw9AR4vDMSRES+9s6yQxDw3v8LQwtZdKnzPks55Ias=",
@@ -297,7 +305,7 @@
       "url": "KioskApp\/_framework\/System.Net.Http.dll"
     },
     {
-      "hash": "sha256-69NtsmqpMgMhjS2lMC1yAPHJnknRDlHINEARWZcijFI=",
+      "hash": "sha256-WRWJDHH359ESHnOU3I3LVJzoATvgH82eDJgmhzhhm+E=",
       "url": "KioskApp\/_framework\/System.Net.Primitives.dll"
     },
     {
@@ -357,11 +365,11 @@
       "url": "KioskApp\/_framework\/System.Threading.Channels.dll"
     },
     {
-      "hash": "sha256-Uh31WqxBPO9np553DCm1T\/pQaq8AgOX\/UfBsiAaW1kw=",
+      "hash": "sha256-84AfPRUXMFtuEudPtLwEQyi4DzpX4+AueMwKCXkjBeo=",
       "url": "KioskApp\/_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-ELV5bTBmbKM9EAz9CPVHz3xTaTIPNTnY2lpzleRofNA=",
+      "hash": "sha256-Lm4S+vcD+Ndjon5RX9Ix6D6oHn9XYg2MZAYbSwbS+b8=",
       "url": "KioskApp\/_framework\/blazor.boot.json"
     },
     {
@@ -369,5 +377,5 @@
       "url": "KioskApp\/_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "sSzaGwgf"
+  "version": "PQYzXbHh"
 };
