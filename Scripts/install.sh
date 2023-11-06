@@ -16,7 +16,7 @@ metric 200
 
 #Instalar repositorio de la aplicación
 
-sudo git clone https://github.com/DCMSolutions/DCMLocker/publish /home/pi/DCMLocker
+sudo git clone https://github.com/DCMSolutions/DCMLocker/publishCliente /home/pi/DCMLocker
 
 #instalar net 5
 sudo wget -O - https://raw.githubusercontent.com/pjgpetecodes/dotnet5pi/master/install.sh | sudo bash
